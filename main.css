@@ -1,10 +1,10 @@
 @font-face {
 	font-family: 'OCR A Extended';
-	src: url('fonts/OCRAEXT.TTF'); 
+	src: url('OCRAEXT.TTF'); 
 	src: 
 		local('OCR A Extended'),
 		local('OCR-A-Extended'),
-		url('fonts/OCRAEXT.TTF') 
+		url('OCRAEXT.TTF') 
 		format('truetype');
 }
 
